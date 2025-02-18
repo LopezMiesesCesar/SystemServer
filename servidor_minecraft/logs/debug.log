@@ -742,3 +742,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Feb2025 23:33:41.363] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@fffc9a5 into net.minecraft.network.Connection@16c193e3
 [18Feb2025 23:33:42.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:36259] logged in with entity id 8316 at (72.43216547180003, 17.6875, 164.28810889021847)
 [18Feb2025 23:33:42.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
+[18Feb2025 23:34:12.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> cuales son tus coordenadas
+[18Feb2025 23:34:17.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=72, z=123} BlockPos{x=180, y=70, z=123}
+[18Feb2025 23:34:17.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=72, z=123} BlockPos{x=180, y=70, z=123}
+[18Feb2025 23:34:17.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=72, z=123} BlockPos{x=180, y=70, z=123}
+[18Feb2025 23:34:17.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=179, y=72, z=123} BlockPos{x=180, y=70, z=123}
+[18Feb2025 23:34:17.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=179, y=72, z=124} BlockPos{x=180, y=70, z=123}
+[18Feb2025 23:34:17.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=179, y=72, z=124} BlockPos{x=180, y=70, z=123}
+[18Feb2025 23:34:17.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=179, y=70, z=125} BlockPos{x=180, y=70, z=123}
+[18Feb2025 23:34:18.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=177, y=71, z=131} BlockPos{x=177, y=69, z=130}
+[18Feb2025 23:34:20.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=177, y=71, z=143} BlockPos{x=177, y=69, z=143}
+[18Feb2025 23:34:20.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=177, y=71, z=143} BlockPos{x=177, y=69, z=143}
+[18Feb2025 23:34:20.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=177, y=71, z=145} BlockPos{x=177, y=69, z=146}
+[18Feb2025 23:34:22.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> 64 13 143
+[18Feb2025 23:34:39.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> aca hay espeleoctema pa morise
+[18Feb2025 23:35:00.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> sisi
+[18Feb2025 23:35:57.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> estoy en discord we
+[18Feb2025 23:36:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> voy
+[18Feb2025 23:36:38.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 23:36:38.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 23:41:35.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache has made the advancement [Take Aim]
+[18Feb2025 23:41:38.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 23:41:38.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 23:41:40.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Monster Hunter]
+[18Feb2025 23:41:41.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Suit Up]
