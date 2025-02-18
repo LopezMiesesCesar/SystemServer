@@ -685,3 +685,60 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Feb2025 23:16:38.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Feb2025 23:21:38.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Feb2025 23:21:38.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 23:26:16.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache has made the advancement [Diamonds!]
+[18Feb2025 23:26:38.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 23:26:38.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 23:29:03.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [forge, minecraft, tlskincape]
+[18Feb2025 23:29:03.517] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login]
+[18Feb2025 23:29:03.518] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[18Feb2025 23:29:03.518] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[18Feb2025 23:29:03.518] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[18Feb2025 23:29:03.518] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[18Feb2025 23:29:03.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[18Feb2025 23:29:03.853] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[18Feb2025 23:29:04.011] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[18Feb2025 23:29:04.365] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[18Feb2025 23:29:04.524] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[18Feb2025 23:29:04.682] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[18Feb2025 23:29:05.005] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[18Feb2025 23:29:05.163] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[18Feb2025 23:29:05.323] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[18Feb2025 23:29:05.480] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[18Feb2025 23:29:05.637] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[18Feb2025 23:29:05.799] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[18Feb2025 23:29:06.128] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[18Feb2025 23:29:06.286] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[18Feb2025 23:29:06.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[18Feb2025 23:29:06.599] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[18Feb2025 23:29:06.760] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[18Feb2025 23:29:06.918] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[18Feb2025 23:29:07.074] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[18Feb2025 23:29:08.292] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[18Feb2025 23:29:09.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:43445] logged in with entity id 7313 at (-3.5, 93.0, 5.5)
+[18Feb2025 23:29:09.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
+[18Feb2025 23:29:17.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> oaaa
+[18Feb2025 23:29:20.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> ola
+[18Feb2025 23:30:25.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Stone Age]
+[18Feb2025 23:30:28.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> la aldea esta 214 164
+[18Feb2025 23:30:44.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> 204 160
+[18Feb2025 23:31:00.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> ok
+[18Feb2025 23:31:38.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 23:31:38.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 23:31:42.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Sweet Dreams]
+[18Feb2025 23:31:50.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> estas en la cueva de abajo?
+[18Feb2025 23:31:53.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> se
+[18Feb2025 23:32:04.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Getting an Upgrade]
+[18Feb2025 23:32:06.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> no te deja dormir?
+[18Feb2025 23:32:32.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> nop
+[18Feb2025 23:33:16.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> duerem ahi me salgo
+[18Feb2025 23:33:18.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> cuales son tus coordenadas
+[18Feb2025 23:33:30.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> dale
+[18Feb2025 23:33:33.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
+[18Feb2025 23:33:33.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
+[18Feb2025 23:33:41.362] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[18Feb2025 23:33:41.362] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[18Feb2025 23:33:41.362] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[18Feb2025 23:33:41.363] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[18Feb2025 23:33:41.363] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@fffc9a5 into net.minecraft.network.Connection@16c193e3
+[18Feb2025 23:33:42.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:36259] logged in with entity id 8316 at (72.43216547180003, 17.6875, 164.28810889021847)
+[18Feb2025 23:33:42.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
