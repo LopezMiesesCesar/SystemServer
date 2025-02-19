@@ -1010,3 +1010,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Feb2025 23:53:30.640] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@33d962aa into net.minecraft.network.Connection@6c94363b
 [18Feb2025 23:53:31.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:34579] logged in with entity id 19128 at (964.2986102977189, 71.0, 662.9943377421662)
 [18Feb2025 23:53:31.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
+[18Feb2025 23:55:23.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Acquire Hardware]
+[18Feb2025 23:56:38.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 23:56:38.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 00:01:38.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 00:01:38.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 00:02:24.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
+[19Feb2025 00:02:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
