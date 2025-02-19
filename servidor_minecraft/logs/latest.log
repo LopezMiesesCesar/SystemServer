@@ -86,3 +86,9 @@
 [19Feb2025 00:57:47.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon left the game
 [19Feb2025 00:58:43.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [A Seedy Place]
 [19Feb2025 01:11:28.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! 1.4804394149125528,-1.8232407249357578,-9.968196342563715
+[19Feb2025 01:21:52.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! 6.278852041668614,-2.878703159460798,-7.595175021307369
+[19Feb2025 01:23:47.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
+[19Feb2025 01:23:47.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
+[19Feb2025 01:24:23.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:60629] logged in with entity id 48373 at (189.95076298463286, 59.0, 176.84502219002405)
+[19Feb2025 01:24:23.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
+[19Feb2025 01:25:00.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/48396, l='ServerLevel[world]', x=261.60, y=70.00, z=151.49] died, message: 'Cartographer was slain by Zombie'
