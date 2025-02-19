@@ -11,6 +11,7 @@
       "minecraft:cherry_grove": "2025-02-18 23:45:10 +0000",
       "minecraft:river": "2025-02-18 23:37:39 +0000",
       "minecraft:meadow": "2025-02-18 23:31:27 +0000",
+      "minecraft:dripstone_caves": "2025-02-19 02:56:33 +0000",
       "minecraft:plains": "2025-02-18 23:29:10 +0000"
     },
     "done": false
@@ -265,6 +266,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-19 01:29:39 +0000",
       "bread": "2025-02-18 23:32:52 +0000",
+      "cooked_mutton": "2025-02-19 03:11:53 +0000",
       "potato": "2025-02-19 00:58:57 +0000",
       "cooked_beef": "2025-02-19 01:08:52 +0000",
       "baked_potato": "2025-02-19 01:03:17 +0000",
@@ -330,7 +332,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-18 23:41:40 +0000",
       "minecraft:spider": "2025-02-18 23:54:25 +0000",
-      "minecraft:zombie": "2025-02-19 01:28:43 +0000"
+      "minecraft:zombie": "2025-02-19 01:28:43 +0000",
+      "minecraft:creeper": "2025-02-19 02:53:43 +0000"
     },
     "done": false
   },
@@ -1174,15 +1177,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-02-19 01:50:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-19 01:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-19 01:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-19 01:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-19 01:50:58 +0000"
     },
     "done": true
   },
@@ -1204,21 +1219,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-02-19 01:30:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-02-19 01:30:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-19 02:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_the_recipe": "2025-02-19 03:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-19 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-19 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-19 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-19 03:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-19 03:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-19 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-19 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-02-19 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-19 03:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-19 03:15:31 +0000"
     },
     "done": true
   },

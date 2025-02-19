@@ -1569,3 +1569,147 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Feb2025 02:43:14.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> taiga no es donde salen los de abeto
 [19Feb2025 02:43:14.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> q rici¿ooooooo
 [19Feb2025 02:43:17.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> soy un capo
+[19Feb2025 02:46:33.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Acquire Hardware]
+[19Feb2025 02:46:38.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 02:46:38.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 02:46:50.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Isn't It Iron Pick]
+[19Feb2025 02:47:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> ya voy pa la casa
+[19Feb2025 02:47:10.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> ok
+[19Feb2025 02:47:17.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> estoy a 3k de bloques de distancia
+[19Feb2025 02:47:19.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> vamos a minar nosotros
+[19Feb2025 02:47:30.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> a conseguir el hierro que gaste
+[19Feb2025 02:47:41.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> el alejo solo entra a matarme y a joder man
+[19Feb2025 02:47:47.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> serio?
+[19Feb2025 02:47:53.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> si weon
+[19Feb2025 02:47:55.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> menos mal no deje q cree en lagternos
+[19Feb2025 02:48:07.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> me comenzo a matar el gay
+[19Feb2025 02:48:14.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> y me retraso con la granja
+[19Feb2025 02:48:22.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> y me robo toda la comida tambien
+[19Feb2025 02:48:35.539] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:48:35.540] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:48:35.540] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:48:35.540] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Feb2025 02:48:35.540] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@3767d872 into net.minecraft.network.Connection@79a19f0f
+[19Feb2025 02:50:16.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Stone Age]
+[19Feb2025 02:51:38.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 02:51:38.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 02:52:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> mache vamos a salirnos un momento para que partaco duerma y se haga de dia
+[19Feb2025 02:52:49.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
+[19Feb2025 02:52:49.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
+[19Feb2025 02:52:50.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Briian22 lost connection: Disconnected
+[19Feb2025 02:52:50.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 left the game
+[19Feb2025 02:52:55.067] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:52:55.067] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:52:55.067] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:52:55.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Feb2025 02:52:55.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@6d4c14 into net.minecraft.network.Connection@53f78132
+[19Feb2025 02:52:56.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enderman791[/127.60.248.107:50511] logged in with entity id 69475 at (9.5, 120.0, -0.5)
+[19Feb2025 02:52:56.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 joined the game
+[19Feb2025 02:53:04.150] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:53:04.150] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:53:04.150] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:53:04.150] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Feb2025 02:53:04.150] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@61ad9f3d into net.minecraft.network.Connection@76651803
+[19Feb2025 02:53:05.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Briian22[/127.112.79.233:60897] logged in with entity id 69735 at (30.92391802369144, 70.0, 135.1285786359099)
+[19Feb2025 02:53:05.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 joined the game
+[19Feb2025 02:53:18.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:53:18.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:53:18.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 02:53:18.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Feb2025 02:53:18.458] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@17d5f0a into net.minecraft.network.Connection@6003a4ff
+[19Feb2025 02:53:19.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:48009] logged in with entity id 69931 at (2365.7237809057438, 92.1212968405392, -260.8046746540801)
+[19Feb2025 02:53:19.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
+[19Feb2025 02:53:40.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> ElMache porque no te metes al dc?
+[19Feb2025 02:53:52.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> ahi voy
+[19Feb2025 02:55:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Stone Age]
+[19Feb2025 02:56:17.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Getting an Upgrade]
+[19Feb2025 02:56:38.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 02:56:38.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 02:59:23.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Disconnected
+[19Feb2025 02:59:23.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
+[19Feb2025 02:59:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> encontre dark forest
+[19Feb2025 02:59:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> ergaa
+[19Feb2025 03:00:12.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> tremendo spawn no
+[19Feb2025 03:00:16.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> se
+[19Feb2025 03:00:17.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> se
+[19Feb2025 03:01:38.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 03:01:38.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 03:01:49.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
+[19Feb2025 03:01:49.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
+[19Feb2025 03:01:58.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> Enderman791 andas como lejos
+[19Feb2025 03:02:00.460] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:02:00.461] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:02:00.461] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:02:00.461] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Feb2025 03:02:00.461] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@6d8385a8 into net.minecraft.network.Connection@5cc00fd1
+[19Feb2025 03:02:02.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:46035] logged in with entity id 77874 at (201.3707623226965, 64.0, 173.22339356075148)
+[19Feb2025 03:02:02.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
+[19Feb2025 03:02:13.772] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:02:13.772] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:02:13.772] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:02:13.772] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Feb2025 03:02:13.772] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@ebeaaf5 into net.minecraft.network.Connection@59e1b835
+[19Feb2025 03:02:14.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:40683] logged in with entity id 78219 at (1711.699999988079, 76.0, -316.27307427051244)
+[19Feb2025 03:02:14.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
+[19Feb2025 03:02:21.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> ni modo acabo de conectarme
+[19Feb2025 03:02:24.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
+[19Feb2025 03:02:24.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
+[19Feb2025 03:02:27.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> mira para atras
+[19Feb2025 03:02:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> a la izquierda
+[19Feb2025 03:02:46.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> sigue para alla derecho
+[19Feb2025 03:02:55.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> y llegas a donde estamos nosotros
+[19Feb2025 03:03:29.918] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:03:29.918] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:03:29.918] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:03:29.918] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Feb2025 03:03:29.918] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@3e4d3c8 into net.minecraft.network.Connection@2215464
+[19Feb2025 03:03:31.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElMache[/127.20.100.10:47505] logged in with entity id 79051 at (1715.300000011921, 80.0, -321.3720438792004)
+[19Feb2025 03:03:31.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache joined the game
+[19Feb2025 03:05:14.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> donde verga andanç
+[19Feb2025 03:06:38.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 03:06:38.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 03:06:58.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Monster Hunter]
+[19Feb2025 03:07:19.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Monster Hunter]
+[19Feb2025 03:11:00.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Sweet Dreams]
+[19Feb2025 03:11:38.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 03:11:38.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 03:14:53.527] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:14:53.527] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:14:53.527] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Feb2025 03:14:53.528] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Feb2025 03:14:53.528] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@21c52bc9 into net.minecraft.network.Connection@31a6c094
+[19Feb2025 03:14:53.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enderman791 lost connection: You logged in from another location
+[19Feb2025 03:14:53.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 left the game
+[19Feb2025 03:14:54.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enderman791[/127.60.248.107:39183] logged in with entity id 85928 at (88.58627028506812, 8.0, 359.3859369306386)
+[19Feb2025 03:14:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 joined the game
+[19Feb2025 03:15:18.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1015, y=64, z=-370} BlockPos{x=1016, y=62, z=-371}
+[19Feb2025 03:16:01.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> creo que encontre una trial chamba
+[19Feb2025 03:16:06.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElMache> S ERIO?
+[19Feb2025 03:16:13.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> creo
+[19Feb2025 03:16:24.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> sip
+[19Feb2025 03:16:27.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> si es
+[19Feb2025 03:16:38.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 03:16:38.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 03:17:00.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
+[19Feb2025 03:17:00.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
+[19Feb2025 03:18:37.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> enva
+[19Feb2025 03:18:42.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> q
+[19Feb2025 03:18:43.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> porq te llamas enderman
+[19Feb2025 03:18:49.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> no sabia que eras vos:v
+[19Feb2025 03:19:14.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> lo tengo desde que empeze a jugar minecraft java
+[19Feb2025 03:19:24.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> sabes donde hay mina?
+[19Feb2025 03:19:37.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> de hecho estoy en una
+[19Feb2025 03:19:45.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> mandas coords?
+[19Feb2025 03:20:53.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> x 74 z 7 y 358
+[19Feb2025 03:21:38.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 03:21:38.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 03:21:42.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Acquire Hardware]
+[19Feb2025 03:22:11.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Isn't It Iron Pick]
+[19Feb2025 03:23:10.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 has made the advancement [Diamonds!]
+[19Feb2025 03:23:29.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enderman791> 6 diamantes nice
+[19Feb2025 03:24:55.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 was slain by Zombie
+[19Feb2025 03:25:02.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> xd
+[19Feb2025 03:25:19.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 burned to death
+[19Feb2025 03:25:23.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> xd
+[19Feb2025 03:25:41.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 was slain by Zombie
+[19Feb2025 03:25:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 burned to death
