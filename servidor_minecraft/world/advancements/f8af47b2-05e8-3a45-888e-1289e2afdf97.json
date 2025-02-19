@@ -1126,5 +1126,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-19 00:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-19 00:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2025-02-19 00:55:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }

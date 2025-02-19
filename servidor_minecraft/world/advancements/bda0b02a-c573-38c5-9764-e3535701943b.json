@@ -263,7 +263,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-02-18 23:32:52 +0000"
+      "bread": "2025-02-18 23:32:52 +0000",
+      "potato": "2025-02-19 00:58:57 +0000",
+      "carrot": "2025-02-19 01:01:18 +0000"
     },
     "done": false
   },
@@ -1000,6 +1002,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-19 00:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-19 00:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-19 00:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-19 00:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-02-19 00:46:16 +0000"
@@ -1009,6 +1035,24 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-02-19 00:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2025-02-19 00:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-19 01:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-19 01:00:08 +0000"
     },
     "done": true
   },
@@ -1027,6 +1071,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-02-19 00:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-19 00:58:23 +0000"
     },
     "done": true
   },
