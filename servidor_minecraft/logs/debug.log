@@ -1724,3 +1724,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Feb2025 03:33:14.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enderman791 lost connection: Disconnected
 [19Feb2025 03:33:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enderman791 left the game
 [19Feb2025 03:33:36.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Cover Me with Diamonds]
+[19Feb2025 03:36:38.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 03:36:38.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 03:39:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Diamonds!]
+[19Feb2025 03:41:38.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 03:41:38.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

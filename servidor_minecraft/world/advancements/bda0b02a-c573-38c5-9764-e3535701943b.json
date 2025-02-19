@@ -1245,6 +1245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-19 03:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-19 03:29:25 +0000"
@@ -1275,6 +1281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-19 03:38:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-02-19 03:23:21 +0000"
@@ -1296,6 +1308,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-19 03:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-19 03:32:04 +0000"
     },
     "done": true
   },
@@ -1326,6 +1344,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 03:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-19 03:38:16 +0000"
     },
     "done": true
   },
@@ -1413,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-19 03:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-19 03:23:21 +0000"
@@ -1482,6 +1512,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 03:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-19 03:33:36 +0000"
     },
     "done": true
   },
