@@ -247,3 +247,8 @@
 [19Feb2025 04:22:52.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> componente
 [19Feb2025 04:23:01.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Briian22> namanaka
 [19Feb2025 04:24:45.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Best Friends Forever]
+[19Feb2025 04:27:02.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [What a Deal!]
+[19Feb2025 04:32:53.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Briian22 has made the advancement [Hot Stuff]
+[19Feb2025 04:34:29.850] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/95631, l='ServerLevel[world]', x=211.43, y=64.00, z=206.38] died, message: 'Villager was slain by JoseAlvarez'
+[19Feb2025 04:35:07.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.2800651359645201
+[19Feb2025 04:35:07.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.7347895563689235
