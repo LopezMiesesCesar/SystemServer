@@ -92,3 +92,5 @@
 [19Feb2025 01:24:23.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:60629] logged in with entity id 48373 at (189.95076298463286, 59.0, 176.84502219002405)
 [19Feb2025 01:24:23.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
 [19Feb2025 01:25:00.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/48396, l='ServerLevel[world]', x=261.60, y=70.00, z=151.49] died, message: 'Cartographer was slain by Zombie'
+[19Feb2025 01:29:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Not Today, Thank You]
+[19Feb2025 01:31:17.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez was blown up by Creeper
