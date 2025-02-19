@@ -1,2 +1,22 @@
 [19Feb2025 00:02:24.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMache lost connection: Disconnected
 [19Feb2025 00:02:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMache left the game
+[19Feb2025 00:05:27.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
+[19Feb2025 00:05:27.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
+[19Feb2025 00:06:27.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[19Feb2025 00:06:38.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:41749] logged in with entity id 25702 at (198.40694364452236, 64.0, 190.9381315166859)
+[19Feb2025 00:06:38.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
+[19Feb2025 00:07:08.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! -2.6677026121672895,-1.044812420399012,9.910281196209723
+[19Feb2025 00:08:24.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
+[19Feb2025 00:08:24.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
+[19Feb2025 00:09:11.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:47247] logged in with entity id 26189 at (194.70631787301465, 64.0, 198.70573567634898)
+[19Feb2025 00:09:11.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
+[19Feb2025 00:10:26.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
+[19Feb2025 00:10:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
+[19Feb2025 00:10:33.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaDareichon[/127.12.43.16:36313] logged in with entity id 26605 at (5.5, 103.0, 10.5)
+[19Feb2025 00:10:33.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon joined the game
+[19Feb2025 00:11:35.035] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@58dbeb06[id=bda0b02a-c573-38c5-9764-e3535701943b,name=JoseAlvarez,properties={}] lost connection: Disconnected
+[19Feb2025 00:11:46.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:58021] logged in with entity id 27035 at (203.55318080259656, 64.1212968405392, 173.55905508548028)
+[19Feb2025 00:11:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
+[19Feb2025 00:12:33.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> 204, 171
+[19Feb2025 00:14:10.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaDareichon lost connection: Disconnected
+[19Feb2025 00:14:10.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon left the game
