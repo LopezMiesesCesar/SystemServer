@@ -96,3 +96,7 @@
 [19Feb2025 01:31:17.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez was blown up by Creeper
 [19Feb2025 01:37:51.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=64, z=161} BlockPos{x=204, y=63, z=161}
 [19Feb2025 01:50:58.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez has made the advancement [Best Friends Forever]
+[19Feb2025 02:32:42.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=69, z=159} BlockPos{x=222, y=67, z=159}
+[19Feb2025 02:32:42.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=69, z=159} BlockPos{x=222, y=67, z=159}
+[19Feb2025 02:32:42.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=68, z=159} BlockPos{x=222, y=67, z=159}
+[19Feb2025 02:32:42.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=68, z=159} BlockPos{x=222, y=67, z=159}
