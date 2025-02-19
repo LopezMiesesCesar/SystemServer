@@ -1782,3 +1782,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Feb2025 04:35:07.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Briian22) moved wrongly! 0.7347895563689235
 [19Feb2025 04:36:38.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Feb2025 04:36:38.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 04:40:02.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/98459, l='ServerLevel[world]', x=211.30, y=64.00, z=206.48] died, message: 'Villager was slain by JoseAlvarez'
+[19Feb2025 04:41:38.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 04:41:38.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 04:46:38.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 04:46:38.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
