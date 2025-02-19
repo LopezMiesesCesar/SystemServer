@@ -9,13 +9,20 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-02-19 00:00:06 +0000",
       "minecraft:beach": "2025-02-18 23:46:59 +0000",
+      "minecraft:stony_peaks": "2025-02-19 00:32:16 +0000",
       "minecraft:forest": "2025-02-18 23:45:59 +0000",
-      "minecraft:ocean": "2025-02-18 23:48:24 +0000",
-      "minecraft:cherry_grove": "2025-02-18 23:54:58 +0000",
+      "minecraft:sparse_jungle": "2025-02-19 00:35:33 +0000",
       "minecraft:river": "2025-02-18 23:44:33 +0000",
-      "minecraft:meadow": "2025-02-18 05:00:32 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-19 00:34:36 +0000",
+      "minecraft:stony_shore": "2025-02-19 00:34:24 +0000",
       "minecraft:dripstone_caves": "2025-02-18 05:08:45 +0000",
+      "minecraft:ocean": "2025-02-18 23:48:24 +0000",
+      "minecraft:jungle": "2025-02-19 00:36:42 +0000",
+      "minecraft:cherry_grove": "2025-02-18 23:54:58 +0000",
+      "minecraft:meadow": "2025-02-18 05:00:32 +0000",
+      "minecraft:birch_forest": "2025-02-19 00:37:41 +0000",
       "minecraft:savanna": "2025-02-18 23:57:42 +0000",
+      "minecraft:bamboo_jungle": "2025-02-19 00:35:56 +0000",
       "minecraft:plains": "2025-02-18 05:01:41 +0000"
     },
     "done": false
@@ -1652,12 +1659,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-02-18 23:55:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-02-18 23:54:20 +0000"
@@ -1670,9 +1671,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-02-18 23:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-02-18 23:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-19 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-19 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-19 00:36:01 +0000"
     },
     "done": true
   },
