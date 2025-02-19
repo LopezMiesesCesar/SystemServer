@@ -20,3 +20,11 @@
 [19Feb2025 00:12:33.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> 204, 171
 [19Feb2025 00:14:10.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaDareichon lost connection: Disconnected
 [19Feb2025 00:14:10.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon left the game
+[19Feb2025 00:22:08.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaDareichon[/127.12.43.16:44207] logged in with entity id 28912 at (105.7650467629818, 94.0, -7.045913574697033)
+[19Feb2025 00:22:08.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon joined the game
+[19Feb2025 00:22:39.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaDareichon> paseme de nuevo las coords malparido
+[19Feb2025 00:22:59.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseAlvarez> 204, 171
+[19Feb2025 00:23:13.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Stone Age]
+[19Feb2025 00:23:42.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Getting an Upgrade]
+[19Feb2025 00:23:47.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
+[19Feb2025 00:23:47.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
