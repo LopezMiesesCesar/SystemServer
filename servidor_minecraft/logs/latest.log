@@ -61,3 +61,17 @@
 [19Feb2025 00:41:29.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! -1.4987005903923603,0.0,9.988830215684004
 [19Feb2025 00:44:10.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez lost connection: Timed out
 [19Feb2025 00:44:10.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez left the game
+[19Feb2025 00:44:59.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseAlvarez[/127.242.90.116:59825] logged in with entity id 39068 at (145.69321516138817, 59.0, 267.99416439670705)
+[19Feb2025 00:44:59.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez joined the game
+[19Feb2025 00:46:08.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon has made the advancement [Hot Stuff]
+[19Feb2025 00:48:21.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon was slain by Enderman
+[19Feb2025 00:48:41.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez was slain by MaDareichon
+[19Feb2025 00:50:21.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaDareichon lost connection: Disconnected
+[19Feb2025 00:50:21.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon left the game
+[19Feb2025 00:50:36.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaDareichon[/127.12.43.16:57583] logged in with entity id 40924 at (156.75000861911636, 30.0, 379.4615209830675)
+[19Feb2025 00:50:36.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaDareichon joined the game
+[19Feb2025 00:51:44.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=65, z=212} BlockPos{x=163, y=63, z=212}
+[19Feb2025 00:51:44.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=65, z=212} BlockPos{x=163, y=63, z=212}
+[19Feb2025 00:52:46.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseAlvarez moved too quickly! 4.993763948853939,2.121296840539202,-8.547327981609499
+[19Feb2025 00:53:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseAlvarez was slain by MaDareichon
+[19Feb2025 00:54:16.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/39078, l='ServerLevel[world]', x=211.17, y=66.00, z=148.24] died, message: 'Armorer was slain by MaDareichon'
